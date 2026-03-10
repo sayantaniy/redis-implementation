@@ -51,5 +51,3 @@ Adjust scripts in each `package.json` as needed.
 ## 🧩 Notes
 
 - TypeScript configuration is isolated per component.
-- Add your own README sections if you extend functionality (e.g.,
-  Redis details, environment variables, deployment).
